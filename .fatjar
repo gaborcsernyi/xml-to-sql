@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 30 16:14:49 CEST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=XML_to_SQL_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Process_XML
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
